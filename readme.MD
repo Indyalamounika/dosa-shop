@@ -2,10 +2,20 @@
 
 
 ## plain-dosa
-* dosa batter
-* light oil
+*  dosa batter
+*  light oil
 
 ## karam-dosa
-* dosa batter
+*  dosa batter
 *  erra karam 
-* oil
+*  oil
+
+## egg-dosa
+* dosa batter
+* 2 eggs and karanm
+
+## egg-masala-dosa
+* light oil
+* egg amd masala
+
+
