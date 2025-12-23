@@ -14,5 +14,8 @@
 * dosa batter
 * 2 eggs and karanm
 
+## egg-masala-dosa
+* light oil
+* egg amd masala
 
 
