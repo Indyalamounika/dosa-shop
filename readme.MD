@@ -18,4 +18,6 @@
 * light oil
 * egg amd masala
 
+## ghee-karam
+* dosa batter
 
